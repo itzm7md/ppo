@@ -1,10 +1,8 @@
-var ServerID = "512606811824717834"; //اي دي السيرفر
-var ChannelID = "512606811824717838";// اي دي الروم
-
+var ServerID = "509459165865836565"; //اي دي السيرفر
+var ChannelID = "531530409280798761";// اي دي الروم
 /*	
  
-Codes server - !.Zeyad' , ♚Roýale#5555
-                                                                                                            
+                         //    العب بعيد يعمو                                                                               
                                                                                                             
   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______ 
  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
@@ -23,7 +21,6 @@ _________                    .___.__  __
 \     \____|  | \/\  ___// /_/ | |  ||  |  \___ \ 
  \______  /|__|    \___  >____ | |__||__| /____  >
         \/             \/     \/               \/ 
-Codes server - !.Zeyad' , ♚Roýale#5555
    _____  .__                     
   /     \ |__| ____   ___________ 
  /  \ /  \|  |/    \_/ __ \_  __ \
@@ -37,7 +34,6 @@ const client = new Discord.Client();
 client.on('warn', console.warn);
 
 client.on('error', console.error);
-// Codes server - !.Zeyad' , ♚Roýale#5555
 
 
 client.on('ready', () => console.log('ProBot Credits Miner Discord.js Script','\n','By Zeyad,Royale','\n','ProBot credits miner is ready!'));// Codes Server` - iiZeyad , Roýale"1.5k 🍷#1111
